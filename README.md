@@ -3,4 +3,4 @@
 New line
 Line 1
 
-This line is bad.
+Add another line.
